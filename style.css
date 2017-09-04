@@ -169,3 +169,15 @@ select {
 .gender-button{
     margin-right: 4px;
 }
+
+.button-signup {
+    background: rgb(18, 184, 65);
+    font-size: 180%;
+    width: 100%;
+    color: white;
+    border: solid;
+    border-color: black;
+    border-width: 2px;
+    margin-top: 20px;
+    padding: 10px;
+}
